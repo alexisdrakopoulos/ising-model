@@ -23,6 +23,10 @@ Function Name: **plot_ising_array()**
 
 This function takes in the numpy array, the temperature and steps and returns a plot such as:
 
+![low_temperature](https://i.imgur.com/YcN4oWq.png)
+![high_temperature](https://i.imgur.com/S1qRJua.png)
+
+Where we can see two systems, one in low temperature and one in high temperature, they are 200x200 with 1 billion MCMC steps.
 
 ## The Ising Model
 
